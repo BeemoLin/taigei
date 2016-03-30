@@ -1,0 +1,10 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "taigei",
+	"model": "taigei.moc",
+	"textures": [
+		"taigei.1024/texture_00.png",
+		"taigei.1024/texture_01.png",
+		"taigei.1024/texture_02.png"
+	]
+}
