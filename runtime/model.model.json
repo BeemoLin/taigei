@@ -6,5 +6,17 @@
 		"model.1024/texture_00.png",
 		"model.1024/texture_01.png",
 		"model.1024/texture_02.png"
-	]
+	],
+	"motions":{
+		"tap_bust":[
+		],
+		"idle":[
+			{"file":"motions/taigei_idle_01.mtn"}
+		],
+		"tap_ear":[
+		],
+		"tap":[
+		]
+	},
+	"physics":"physics.json"
 }
